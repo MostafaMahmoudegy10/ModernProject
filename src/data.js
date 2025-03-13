@@ -9,7 +9,7 @@ export const TEAM = [
         name: 'Mostafa Mahmoud Ahmed',
         title: "Software Engineer",
         img: mostafa,
-        age: "21",
+        age: "20",
         id: "200026515",
         info: "Software Engineering student trying to figure out life, code, and coffee. Currently mastering the art of debugging and learning how to build the next big thing (or at least a small app). Excited about the future and ready for the next challenge – as long as it involves minimal bugs"
     },
@@ -17,7 +17,7 @@ export const TEAM = [
         name: 'Adham Ahmed',
         title: "Data Analyst",
         img: adham,
-        age: "22",
+        age: "21",
         id: "200023138",
         info: "DataAnalyst"
     },
@@ -38,10 +38,10 @@ export const TEAM = [
         info: "Student at Misr University for Science and Technology"
     },
     {
-        name: 'Kenzy Whayeed',
+        name: 'Kenzy Wahid',
         title: "Frond end developer",
         img: kenzy,
-        age: "21",
+        age: "20",
         id: "200034186",
         info: "Student at Misr University for Science and Technology"
     }
